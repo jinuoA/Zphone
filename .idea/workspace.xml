@@ -1,0 +1,1479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b85eb24-e301-4080-9159-d31b63e93f9f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/js/product-dails.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/js/service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/js/star-phone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/scss/blog/article-details.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/scss/blog/article-details.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/scss/blog/picture-details.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/scss/blog/picture-details.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/blog/article-details.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/blog/article-details.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/blog/article-details.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/blog/blog-home&amp;news.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/blog/blog-home&amp;news.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/blog/blog-home&amp;news.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/blog/blog-picture.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/blog/blog-picture.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/blog/blog-picture.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/blog/blog-v.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/blog/blog-v.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/blog/blog-v.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/blog/blog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/blog/blog.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/blog/blog.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/blog/picture-details.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/blog/picture-details.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/blog/picture-details.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/common/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/common/common.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/common/common.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/common/iconfont.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/common/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/common/login.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/common/login.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/common/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/index/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/index/index.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/index/index.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/product-details/products-dails.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/product-details/products-dails.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/product-details/products-dails.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/service/media.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/service/media.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/service/media.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/service/service.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/service/service.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/service/service.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/star-phone/star-phone.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/star-phone/star-phone.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/star-phone/star-phone.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/store/store.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/store/store.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/store/store.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/stroe/store.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/stroe/store.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/scss/stroe/store.scss" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/icon/iconfont(1).eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/icon/iconfont(1).svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/icon/iconfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/icon/iconfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/icon/iconfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/icon/iconfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/blog/5big(1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/blog/5big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/blog/5product.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/blog/720-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/blog/720.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/blog/90.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/blog/blog_banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/blog/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/blog/new_banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/blog/op5-gray1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/blog/op5-gray2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/blog/op5-gray3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/blog/op5-gray4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/blog/op5-gray5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/blog/op5-gray6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/blog/op5-gray7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/blog/op5-gray8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/blog/op5-slateGray-banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/blog/picture_banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/blog/star.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/blog/video_banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/blog/video_play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/common/cnnic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/common/defLoginP.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/common/icon-user.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/common/icon_menu@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/common/icon_person.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/common/icon_person2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/common/icons-login.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/common/icons-mb-1x-s9d9d8fdb39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/common/icons-sf52499cdf4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/common/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/common/record.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/common/regular-s1ec6d6d4d5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/common/sm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/common/starflag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/index/footer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/index/index-four.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/index/index-one.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/index/index-one2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/index/index-six.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/index/index-three.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/index/index-two.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/index/section-one.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/index/section3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/index/section32.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/index/section33.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/product-dails/colorchoice1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/product-dails/colorchoice2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/product-dails/colorchoice3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/product-dails/colorchoice4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/product-dails/i-ebony.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/product-dails/i-karbon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/product-dails/i-rosewood.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/product-dails/i-sandstone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/product-dails/img-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/product-dails/img-2-ebony.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/product-dails/img-2-karbon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/product-dails/img-2-rosewood.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/product-dails/img-2-sandstone.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/product-dails/img-4-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/product-dails/img-4-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/product-dails/img-4-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/product-dails/img-4-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/product-dails/leftsmallimg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/product-dails/section1-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/product-dails/section1-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/product-dails/section1-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/product-dails/section1-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/service/banner_large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/service/banner_small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/service/contactusbg-small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/service/contactusbg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/service/icon-personal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/service/icon-process.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/service/icon_search_large.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/service/icon_search_small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/service/img-jdb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/service/img-yjys.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/service/nserv-point-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/service/nserv-point.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/service/serviceicons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/store/Backpack0620-large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/store/Backpack0620-small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/store/Bundle0620-large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/store/Bundle0620-small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/store/ChargerBundle0620-large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/store/ChargerBundle0620-small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/store/OnePlus5Shopbanner0704-large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/store/OnePlus5Shopbanner0704-small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/store/goods-list-pic01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/images/store/store-sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/js/headercontral.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/js/product-dails.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/js/service.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/js/star-phone.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/js/store.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/blog/article-details.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/blog/article-details.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/blog/article-details.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/blog/blog-home&amp;news.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/blog/blog-home&amp;news.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/blog/blog-home&amp;news.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/blog/blog-picture.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/blog/blog-picture.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/blog/blog-picture.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/blog/blog-v.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/blog/blog-v.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/blog/blog-v.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/blog/blog.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/blog/blog.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/blog/blog.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/blog/picture-details.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/blog/picture-details.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/blog/picture-details.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/common/common.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/common/common.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/common/common.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/common/iconfont.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/common/login.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/common/login.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/common/login.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/common/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/index/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/index/index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/index/index.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/product-details/products-dails.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/product-details/products-dails.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/product-details/products-dails.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/service/media.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/service/media.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/service/media.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/service/service.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/service/service.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/service/service.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/store/store.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/store/store.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/store/store.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/stroe/store.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/stroe/store.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnePlus5/static/scss/stroe/store.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/icon/iconfont(1).eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/icon/iconfont(1).svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/icon/iconfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/icon/iconfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/common/cnnic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/common/icon-user.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/common/icon_menu@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/common/icon_person.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/common/icon_person2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/common/icons-mb-1x-s9d9d8fdb39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/common/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/common/record.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/common/regular-s1ec6d6d4d5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/common/sm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/common/starflag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/index/footer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/index/index-four.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/index/index-one.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/index/index-one2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/index/index-six.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/index/index-three.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/index/index-two.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/index/section-one.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/index/section3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/index/section32.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/index/section33.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/service/banner_large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/service/banner_small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/service/contactusbg-small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/service/contactusbg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/service/icon-personal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/service/icon-process.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/service/icon_search_large.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/service/icon_search_small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/service/img-jdb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/service/img-yjys.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/service/nserv-point.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/service/serviceicons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/store/Backpack0620-large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/store/Backpack0620-small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/store/Bundle0620-large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/store/Bundle0620-small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/store/ChargerBundle0620-large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/store/ChargerBundle0620-small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/store/OnePlus5Shopbanner0704-large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/store/OnePlus5Shopbanner0704-small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/store/goods-list-pic01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/images/store/store-sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/js/jquery-1.7.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/js/jquery.jplayer.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/scss/common/common.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/scss/common/common.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/scss/common/common.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/scss/common/iconfont.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/scss/common/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/scss/index/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/scss/index/index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/scss/index/index.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/scss/service/media.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/scss/service/media.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/scss/service/media.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/scss/service/service.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/scss/service/service.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/scss/service/service.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/scss/stroe/store.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/scss/stroe/store.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/static/scss/stroe/store.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/log/all.log.1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/log/all.log.2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/log/all.log.3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/log/all.log.4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/log/all.log.5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/icon/iconfont(1).eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/icon/iconfont(1).svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/icon/iconfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/icon/iconfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/blog/5big(1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/blog/5big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/blog/5product.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/blog/720-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/blog/720.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/blog/90.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/blog/blog_banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/blog/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/blog/new_banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/blog/op5-gray1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/blog/op5-gray2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/blog/op5-gray3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/blog/op5-gray4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/blog/op5-gray5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/blog/op5-gray6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/blog/op5-gray7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/blog/op5-gray8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/blog/op5-slateGray-banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/blog/picture_banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/blog/star.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/blog/video_banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/blog/video_play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/index/footer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/index/index-four.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/index/index-one.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/index/index-one2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/index/index-six.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/index/index-three.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/index/index-two.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/index/section-one.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/index/section3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/index/section32.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/index/section33.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/product-dails/colorchoice1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/product-dails/colorchoice2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/product-dails/colorchoice3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/product-dails/colorchoice4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/product-dails/i-ebony.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/product-dails/i-karbon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/product-dails/i-rosewood.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/product-dails/i-sandstone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/product-dails/img-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/product-dails/img-2-ebony.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/product-dails/img-2-karbon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/product-dails/img-2-rosewood.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/product-dails/img-2-sandstone.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/product-dails/img-4-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/product-dails/img-4-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/product-dails/img-4-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/product-dails/img-4-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/product-dails/leftsmallimg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/product-dails/section1-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/product-dails/section1-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/product-dails/section1-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/product-dails/section1-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/service/banner_large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/service/banner_small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/service/contactusbg-small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/service/contactusbg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/service/icon-personal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/service/icon-process.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/service/icon_search_large.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/service/icon_search_small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/service/img-jdb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/service/img-yjys.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/service/nserv-point-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/service/nserv-point.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/service/serviceicons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/arrow-up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/black-expand-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/black-expand.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/color-black-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/color-black.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/color-gray-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/color-gray.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/cooler-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/coordinate-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/display-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/example1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/example10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/example2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/example3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/example4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/example5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/example6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/example7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/example8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/example9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/first-bg-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/first-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/gray-expand-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/gray-expand.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/icon-all.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/icon-priority.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/icon-silent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/jack-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/lens-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/lens.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/line-game.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/line-screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/line-video.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/mode-gray-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/mode-gray-night-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/mode-gray-night.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/mode-gray.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/mode-yellow-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/mode-yellow-night-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/mode-yellow-night.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/mode-yellow.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/onephone-bg-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/onephone-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/oneplus5.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/phone-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/phone-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/phone-m.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/phone.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/phone1-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/phone1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/phone2-all-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/phone2-all.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/phone2-priority-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/phone2-priority.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/phone2-silent-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/phone2-silent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/phone3-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/phone3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/phone4-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/phone4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/portrait-screen.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/priority-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/pro-screen.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/ram-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/scanner-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/screen-bg-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/screen-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/section-video-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/sim-bg-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/sim-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/smart-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/smart-screen.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/star-phone-video.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/star-phone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/storage-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/unibody-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/unlocked-bg-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/star-phone/unlocked-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/store/Backpack0620-large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/store/Backpack0620-small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/store/Bundle0620-large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/store/Bundle0620-small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/store/ChargerBundle0620-large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/store/ChargerBundle0620-small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/store/OnePlus5Shopbanner0704-large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/store/OnePlus5Shopbanner0704-small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/store/goods-list-pic01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/images/store/store-sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/js/headercontral.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/js/product-dails.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/js/service.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/js/star-phone.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/js/store.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/blog/article-details.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/blog/article-details.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/blog/article-details.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/blog/blog-home&amp;news.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/blog/blog-home&amp;news.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/blog/blog-home&amp;news.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/blog/blog-picture.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/blog/blog-picture.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/blog/blog-picture.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/blog/blog-v.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/blog/blog-v.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/blog/blog-v.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/blog/blog.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/blog/blog.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/blog/blog.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/blog/picture-details.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/blog/picture-details.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/blog/picture-details.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/index/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/index/index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/index/index.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/product-details/products-dails.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/product-details/products-dails.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/product-details/products-dails.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/service/media.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/service/media.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/service/media.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/service/service.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/service/service.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/service/service.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/star-phone/star-phone.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/star-phone/star-phone.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/star-phone/star-phone.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/store/store.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/store/store.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/store/store.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/stroe/store.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/stroe/store.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone_auth/static/scss/stroe/store.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/icon/iconfont(1).eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/icon/iconfont(1).svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/icon/iconfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/icon/iconfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/blog/5big(1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/blog/5product.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/blog/720-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/blog/720.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/blog/90.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/blog/blog_banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/blog/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/blog/new_banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/blog/picture_banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/blog/star.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/blog/video_banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/blog/video_play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/common/cnnic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/common/icon-user.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/common/icon_menu@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/common/icon_person.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/common/icon_person2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/common/icons-mb-1x-s9d9d8fdb39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/common/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/common/record.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/common/regular-s1ec6d6d4d5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/common/sm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/common/starflag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/index/footer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/index/index-four.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/index/index-one.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/index/index-one2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/index/index-six.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/index/index-three.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/index/index-two.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/index/section-one.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/index/section3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/index/section32.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/index/section33.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/store/Backpack0620-large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/store/Backpack0620-small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/store/Bundle0620-large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/store/Bundle0620-small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/store/ChargerBundle0620-large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/store/ChargerBundle0620-small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/store/OnePlus5Shopbanner0704-large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/store/OnePlus5Shopbanner0704-small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/store/goods-list-pic01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/images/store/store-sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/js/headercontral.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/js/store.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/scss/blog/blog-home&amp;news.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/scss/blog/blog-home&amp;news.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/scss/blog/blog-home&amp;news.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/scss/blog/blog-picture.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/scss/blog/blog-picture.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/scss/blog/blog-picture.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/scss/blog/blog-v.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/scss/blog/blog-v.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/scss/blog/blog-v.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/scss/blog/blog.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/scss/blog/blog.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/scss/blog/blog.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/scss/common/common.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/scss/common/common.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/scss/common/common.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/scss/common/iconfont.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/scss/common/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/scss/index/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/scss/index/index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/scss/index/index.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/scss/stroe/store.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/scss/stroe/store.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/static/scss/stroe/store.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/blog/5big(1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/blog/5big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/blog/5product.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/blog/720-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/blog/720.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/blog/90.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/blog/blog_banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/blog/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/blog/new_banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/blog/op5-gray1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/blog/op5-gray2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/blog/op5-gray3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/blog/op5-gray4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/blog/op5-gray5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/blog/op5-gray6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/blog/op5-gray7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/blog/op5-gray8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/blog/op5-slateGray-banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/blog/picture_banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/blog/star.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/blog/video_banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/blog/video_play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/common/cnnic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/common/defLoginP.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/common/icon-user.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/common/icon_menu@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/common/icon_person.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/common/icon_person2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/common/icons-login.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/common/icons-mb-1x-s9d9d8fdb39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/common/icons-sf52499cdf4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/common/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/common/record.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/common/regular-s1ec6d6d4d5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/common/sm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/common/starflag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/index/footer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/index/index-four.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/index/index-one.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/index/index-one2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/index/index-six.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/index/index-three.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/index/index-two.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/index/section-one.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/index/section3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/index/section32.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/index/section33.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/service/banner_large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/service/banner_small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/service/contactusbg-small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/service/contactusbg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/service/icon-personal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/service/icon-process.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/service/icon_search_large.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/service/icon_search_small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/service/img-jdb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/service/img-yjys.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/service/nserv-point-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/service/nserv-point.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/images/service/serviceicons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/js/headercontral.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/js/product-dails.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/js/service.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/js/star-phone.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/js/store.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/blog/article-details.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/blog/article-details.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/blog/article-details.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/blog/blog-home&amp;news.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/blog/blog-home&amp;news.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/blog/blog-home&amp;news.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/blog/blog-picture.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/blog/blog-picture.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/blog/blog-picture.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/blog/blog-v.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/blog/blog-v.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/blog/blog-v.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/blog/blog.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/blog/blog.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/blog/blog.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/blog/picture-details.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/blog/picture-details.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/blog/picture-details.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/common/common.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/common/common.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/common/common.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/common/iconfont.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/common/login.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/common/login.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/common/login.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/common/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/index/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/index/index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/index/index.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/service/media.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/service/media.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/service/media.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/service/service.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/service/service.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/service/service.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/star-phone/star-phone.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/star-phone/star-phone.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/star-phone/star-phone.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/stroe/store.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/stroe/store.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop/static/scss/stroe/store.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/icon/iconfont(1).eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/icon/iconfont(1).svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/icon/iconfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/icon/iconfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/icon/iconfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/icon/iconfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/blog/5big(1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/blog/5big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/blog/5product.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/blog/720-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/blog/720.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/blog/90.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/blog/blog_banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/blog/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/blog/new_banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/blog/op5-gray1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/blog/op5-gray2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/blog/op5-gray3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/blog/op5-gray4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/blog/op5-gray5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/blog/op5-gray6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/blog/op5-gray7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/blog/op5-gray8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/blog/op5-slateGray-banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/blog/picture_banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/blog/star.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/blog/video_banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/blog/video_play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/common/cnnic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/common/defLoginP.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/common/icon-user.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/common/icon_menu@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/common/icon_person.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/common/icon_person2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/common/icons-login.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/common/icons-mb-1x-s9d9d8fdb39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/common/icons-sf52499cdf4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/common/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/common/record.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/common/regular-s1ec6d6d4d5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/common/sm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/common/starflag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/product-dails/colorchoice1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/product-dails/colorchoice2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/product-dails/colorchoice3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/product-dails/colorchoice4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/product-dails/i-ebony.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/product-dails/i-karbon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/product-dails/i-rosewood.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/product-dails/i-sandstone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/product-dails/img-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/product-dails/img-2-ebony.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/product-dails/img-2-karbon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/product-dails/img-2-rosewood.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/product-dails/img-2-sandstone.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/product-dails/img-4-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/product-dails/img-4-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/product-dails/img-4-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/product-dails/img-4-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/product-dails/leftsmallimg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/product-dails/section1-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/product-dails/section1-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/product-dails/section1-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/product-dails/section1-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/service/banner_large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/service/banner_small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/service/contactusbg-small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/service/contactusbg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/service/icon-personal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/service/icon-process.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/service/icon_search_large.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/service/icon_search_small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/service/img-jdb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/service/img-yjys.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/service/nserv-point-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/service/nserv-point.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/service/serviceicons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/arrow-up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/black-expand-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/black-expand.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/color-black-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/color-black.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/color-gray-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/color-gray.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/cooler-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/coordinate-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/display-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/example1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/example10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/example2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/example3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/example4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/example5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/example6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/example7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/example8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/example9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/first-bg-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/first-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/gray-expand-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/gray-expand.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/icon-all.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/icon-priority.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/icon-silent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/jack-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/lens-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/lens.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/line-game.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/line-screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/line-video.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/mode-gray-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/mode-gray-night-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/mode-gray-night.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/mode-gray.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/mode-yellow-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/mode-yellow-night-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/mode-yellow-night.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/mode-yellow.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/onephone-bg-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/onephone-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/oneplus5.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/phone-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/phone-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/phone-m.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/phone.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/phone1-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/phone1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/phone2-all-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/phone2-all.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/phone2-priority-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/phone2-priority.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/phone2-silent-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/phone2-silent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/phone3-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/phone3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/phone4-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/phone4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/portrait-screen.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/priority-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/pro-screen.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/ram-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/scanner-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/screen-bg-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/screen-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/section-video-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/sim-bg-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/sim-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/smart-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/smart-screen.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/star-phone-video.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/star-phone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/storage-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/unibody-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/unlocked-bg-m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/star-phone/unlocked-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/store/Backpack0620-large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/store/Backpack0620-small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/store/Bundle0620-large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/store/Bundle0620-small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/store/ChargerBundle0620-large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/store/ChargerBundle0620-small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/store/OnePlus5Shopbanner0704-large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/store/OnePlus5Shopbanner0704-small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/store/goods-list-pic01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/images/store/store-sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/js/headercontral.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/js/product-dails.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/js/service.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/js/star-phone.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/js/store.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/blog/article-details.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/blog/article-details.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/blog/article-details.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/blog/blog-home&amp;news.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/blog/blog-home&amp;news.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/blog/blog-home&amp;news.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/blog/blog-picture.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/blog/blog-picture.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/blog/blog-picture.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/blog/blog-v.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/blog/blog-v.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/blog/blog-v.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/blog/blog.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/blog/blog.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/blog/blog.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/blog/picture-details.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/blog/picture-details.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/blog/picture-details.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/common/common.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/common/common.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/common/common.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/common/iconfont.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/common/login.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/common/login.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/common/login.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/common/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/product-details/products-dails.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/product-details/products-dails.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/product-details/products-dails.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/service/media.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/service/media.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/service/media.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/service/service.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/service/service.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/service/service.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/star-phone/star-phone.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/star-phone/star-phone.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/star-phone/star-phone.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/store/store.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/store/store.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/store/store.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/stroe/store.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/stroe/store.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xphone/static/scss/stroe/store.scss" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/static/js/headercontral.js" afterPath="$PROJECT_DIR$/blog/static/js/headercontral.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/static/js/store.js" afterPath="$PROJECT_DIR$/blog/static/js/store.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/all.log" afterPath="$PROJECT_DIR$/log/all.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/error.log" afterPath="$PROJECT_DIR$/log/error.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/script.log" afterPath="$PROJECT_DIR$/log/script.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xphone/templates/base.html" afterPath="$PROJECT_DIR$/xphone/templates/base.html" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="store.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop/templates/store.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-548">
+              <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xphone/templates/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="238" column="37" lean-forward="false" selection-start-line="238" selection-start-column="37" selection-end-line="238" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/static/js/bootstrap.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1596">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="article-details.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/static/scss/blog/article-details.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="article-details.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/static/scss/blog/article-details.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="picture-details.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/static/scss/blog/picture-details.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="picture-details.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/static/scss/blog/picture-details.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/xphone/templates/base.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="49" />
+    <option name="y" value="-4" />
+    <option name="width" value="1871" />
+    <option name="height" value="1084" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zphone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zphone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zphone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zphone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xphone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zphone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zphone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xphone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zphone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zphone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zphone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zphone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zphone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zphone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zphone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zphone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blog/static/js" />
+      <recent name="$PROJECT_DIR$/blog/static/scss/blog" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.Zphone">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Zphone" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Zphone" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Zphone" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Zphone" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Zphone" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="Zphone" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Zphone" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Zphone" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Zphone" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Zphone" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Django server.Zphone" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b85eb24-e301-4080-9159-d31b63e93f9f" name="Default" comment="" />
+      <created>1501837477554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1501837477554</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="49" y="-4" width="1871" height="1084" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986331" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="manage.py@Zphone" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/shop/templates/store.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-548">
+          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/static/scss/blog/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="33" column="64" lean-forward="false" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/static/scss/blog/article-details.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/static/scss/blog/article-details.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/static/scss/blog/picture-details.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/static/scss/blog/picture-details.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/product-dails.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2441">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/static/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1596">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xphone/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="238" column="37" lean-forward="false" selection-start-line="238" selection-start-column="37" selection-end-line="238" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

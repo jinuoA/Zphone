@@ -18,4 +18,6 @@ admin.site.register(Article,ArticleAdmin)
 admin.site.register(Video)
 admin.site.register(Category)
 admin.site.register(ProPic)
+admin.site.register(Picture_details)
+admin.site.register(Picture2)
 

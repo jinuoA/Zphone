@@ -1,18 +1,19 @@
 # -*- coding:utf-8 -*-
-from django.shortcuts import render, HttpResponse, HttpResponseRedirect
+from django.shortcuts import render, HttpResponse, HttpResponseRedirect,redirect
 from forms import *
-from xphone.models import *
 from django.contrib.auth.hashers import make_password
 from django.contrib.auth import login, logout, authenticate
 from django.core.urlresolvers import reverse
 
 import base64
 from itsdangerous import URLSafeTimedSerializer as utsr
-
+import logging
 from django.core.mail import send_mail
-from XphoneProject.settings import SECRET_KEY, EMAIL_HOST_USER, DEFAULT_FROM_EMAIL, MEDIA_URL, MEDIA_ROOT
+from XphoneProject.settings import SECRET_KEY,EMAIL_HOST_USER, DEFAULT_FROM_EMAIL, MEDIA_URL, MEDIA_ROOT
 from xphone.views import *
 # Create your views here.
+logger = logging.getLogger('phone_auth.views')
+
 
 # 邮件验证连接编码
 class Token(object):
@@ -30,9 +31,7 @@ class Token(object):
 
 token_confirm = Token(SECRET_KEY)
 
-# def index(request):
-#     title = 'super + 首页'
-#     return render(request, 'index1.html', locals())
+
 
 
 # 注册
@@ -105,10 +104,11 @@ def do_login(request):
     except Exception as e:
         print e
 
-# 退出
+# 注销
 def do_logout(request):
     try:
         logout(request)
     except Exception as e:
         print e
-    return HttpResponseRedirect(reverse(index))
+        logger.error(e)
+    return redirect(request.META['HTTP_REFERER'])

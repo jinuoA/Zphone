@@ -21,6 +21,7 @@ def store(request):
         rim_list = ShopSales.objects.all()[9:13]
         #购机服务
         service_list = ServerContent.objects.all()
+        nav_list = Navtags.objects.all()
     except Exception as e:
         logger.error(e)
     return render(request,'store.html',locals())
@@ -33,9 +34,15 @@ def products(request):
     return render(request,'products.html',locals())
 
 
-def phone(request):
+def phone(request,id):
     try:
-        nav_list = NavBars.objects.all()
+        nav_list = Navtags.objects.all()
+
+        try:
+            good_list = TagGoods.objects.filter(Navtags_id=id)
+            ad_list = Ad.objects.filter(Navtags_id=id)
+        except:
+            pass
     except Exception as e:
         logger.error(e)
     return render(request,'phone.html',locals())
@@ -46,9 +53,10 @@ def product_details(request,id):
 
         try:
             product = Product_details.objects.filter(sale_id=id)[0:1]
-            product_list = Product_details.objects.filter(sale_id=id)
+            product_list = Product_details.objects.filter(sale_id=id)[1:5]
+            print(product_list)
             #选择颜色
-            # pro_color = Product_details.objects.get(color_img__exact=False)
+            pro_color = Color.objects.filter(good_id=id)
             arg_list = Arg.objects.filter(sale_id=id)
             pro_list = Product_desc.objects.filter(sale_id=id)[0:1]
             pro_list1 = Product_desc.objects.filter(sale_id=id)[1:2]

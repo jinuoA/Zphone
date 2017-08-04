@@ -15,5 +15,9 @@ urlpatterns = [
     url(r'^article_details/(?P<id>\d+)/$',article_details,name='article_details'),
     url(r'^qiniu_video/$', qiniu_video, name='qiniu_video'),
     url(r'^uptoken/$', uptoken, name='uptoken'),
+    url(r'^collection$', collection_time, name='collection'),
+    url(r'^search$', blog_search, name='search'),
+    url(r'^picture_details/(?P<id>[\d]+)/$', picture_details, name='picture_details'),
+    url(r'^comment/(?P<id>[\d]+)/$', comment_post, name='comment_post'),
 
 ]

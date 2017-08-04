@@ -1,5 +1,6 @@
 {% extends 'base.html' %}
 {% load staticfiles %}
+{% load myfilter %}
 {% block content %}
 <div class="filter" id="filter"></div>
 <!--banner-->
@@ -13,34 +14,34 @@
     <div class="page-container">
         <div class="picture-inner">
             <div class="picture-cell">
-                <h3>Star-Phone 星空系列</h3>
+                <h3>X5手机系列</h3>
                 <ul class="clearfix">
                     {% for propic in proPic_list %}
-                        {% if  propic.id <= 2 %}
-                    <li><a href=""><img src="{% static propic.img_url.url %}" alt="">
-                        <p class="picture-desc">Star-Phone 星空黑</p></a></li>
+                        {% if  propic.id|product1 %}
+                    <li><a href="{% url 'picture_details' propic.id %}"><img src="{% static propic.img_url.url %}" alt="">
+                        <p class="picture-desc">{{ propic.name }}</p></a></li>
                         {% endif %}
                     {% endfor %}
                 </ul>
             </div>
             <div class="picture-cell">
-                <h3>Star-Phone 星空系列</h3>
+                <h3>X3手机系列</h3>
                 <ul class="clearfix">
-                    {% for propic in proPic_list1 %}
-                        {% if  propic.id <= 3  %}
+                    {% for propic in proPic_list %}
+                        {% if  propic.id|product2  %}
                     <li><a href=""><img src="{% static propic.img_url.url %}" alt="">
-                        <p class="picture-desc">Star-Phone 星空黑</p></a></li>
+                        <p class="picture-desc">{{ propic.name }}</p></a></li>
                         {% endif %}
                     {% endfor %}
                 </ul>
             </div>
             <div class="picture-cell">
-                <h3>Star-Phone 星空系列</h3>
+                <h3>X3T手机系列</h3>
                 <ul class="clearfix">
                     {% for propic in proPic_list %}
-                        {% if propic.id >= 4 %}
+                        {% if propic.id > 3 %}
                     <li><a href=""><img src="{% static propic.img_url.url %}" alt="">
-                        <p class="picture-desc">Star-Phone 星空黑</p></a></li>
+                        <p class="picture-desc">{{ propic.name }}</p></a></li>
                         {% endif %}
                     {% endfor %}
                 </ul>

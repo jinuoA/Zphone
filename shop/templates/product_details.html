@@ -1,19 +1,25 @@
 {% extends 'base.html' %}
 {% load staticfiles %}
+{% load myfilter %}
 {% block content %}
 <div class="filter" id="filter"></div><!--滤镜-->
 <!--立即购买 开始-->
 <section class="selection">
     <div class="wild-box flex-box">
         <div class="leftbox">
+            {% for pro in pro_color %}
             <div class="left-imgshow">
                 <div class="big-img ">
                     <a class="btnleft">
                         <i class="iconfont icon-fanhui iconleft"></i>
                     </a>
                     <div class="pic">
-                        {% for product in product_list %}
-                        <img src="{% static product.img_url.url %}" alt="" class="op1">
+                        {% for pro in product_list %}
+{#                            {% if pro.id %}#}
+                        <img src="{% static pro.img_url.url %}" alt="" class="op1">
+{#                            {% else %}#}
+{#                        <img src="{% static pro.img_url.url %}" alt="">#}
+{#                            {% endif %}#}
                         {% endfor %}
                     </div>
                     <a class="btnright">
@@ -21,96 +27,28 @@
                     </a>
                 </div>
                 <div class="small-img ">
-                    {% for product in product_list %}
+                    {% for pro in product_list %}
                     <a>
-                        <img src="{% static product.small_img.url %}" alt="">
+                        <img src="{% static pro.small_img.url %}" alt="">
                     </a>
                     {% endfor %}
                 </div>
             </div>
-            <div class="left-imgshow">
-                <div class="big-img ">
-                    <a class="btnleft">
-                        <i class="iconfont icon-fanhui iconleft"></i>
-                    </a>
-                    <div class="pic">
-                        {% for product in product_list %}
-                        <img src="{% static product.img_url.url %}" alt="" class="op1">
-                        {% endfor %}
-                    </div>
-                    <a class="btnright">
-                        <i class="iconfont icon-gengduo iconright"></i>
-                    </a>
-                </div>
-                <div class="small-img ">
-                    {% for product in product_list %}
-                    <a>
-                        <img src="{% static product.small_img.url %}" alt="">
-                    </a>
-                    {% endfor %}
-                </div>
-            </div>
-            <div class="left-imgshow">
-                <div class="big-img ">
-                    <a class="btnleft">
-                        <i class="iconfont icon-fanhui iconleft"></i>
-                    </a>
-                    <div class="pic">
-                        {% for product in product_list %}
-                        <img src="{% static product.img_url.url %}" alt="" class="op1">
-                        {% endfor %}
-                    </div>
-                    <a class="btnright">
-                        <i class="iconfont icon-gengduo iconright"></i>
-                    </a>
-                </div>
-                <div class="small-img ">
-                    {% for product in product_list %}
-                    <a>
-                        <img src="{% static product.small_img.url %}" alt="">
-                    </a>
-                    {% endfor %}
-                </div>
-
-            </div>
-            <div class="left-imgshow">
-                <div class="big-img ">
-                    <a class="btnleft">
-                        <i class="iconfont icon-fanhui iconleft"></i>
-                    </a>
-                    <div class="pic">
-                        {% for product in product_list %}
-                        <img src="{% static product.img_url.url %}" alt="" class="op1">
-                        {% endfor %}
-                    </div>
-                    <a class="btnright">
-                        <i class="iconfont icon-gengduo iconright"></i>
-                    </a>
-                </div>
-                <div class="small-img ">
-                    {% for product in product_list %}
-                    <a>
-                        <img src="{% static product.small_img.url %}" alt="">
-                    </a>
-                    {% endfor %}
-                </div>
-            </div>
+           {% endfor %}
+            {% for pro in product %}
             <div class="left-imgshow dflex" id="normal-show">
                 <div class="big-img ">
                     <div class="pic">
-                        {% for pro in product %}
                         <img src="{% static pro.img_url.url %}" alt="" class="op1">
-                        {% endfor %}
                     </div>
                 </div>
                 <div class="small-img ">
-                    {% for product in product_list %}
                     <a>
-                        <img src="{% static product.small_img.url %}" alt="">
+                        <img src="{% static pro.img_url.url %}" alt="">
                     </a>
-                    {% endfor %}
                 </div>
             </div>
+        {% endfor %}
         </div>
         <div class="right-info">
             {% for pro in product %}
@@ -124,13 +62,11 @@
                     <dt class="color-des"> 颜色 - <span>{{ pro.color }}</span></dt>
                 {% endif %}
                     <dd class="color-choice" id="buynow">
-                        {% for product in product_list %}
-                            {% if not product.color_img %}
-                                {% else %}
+                        {% for pc in pro_color %}
+
                                 <a>
-                                <img src="{% static product.color_img.url %}" alt="">
+                                <img src="{% static pc.color_img.url %}" alt="">
                                 </a>
-                            {% endif %}
                         {% endfor %}
                     </dd>
                 </dl>
@@ -163,8 +99,15 @@
     </ul>
 </section>
 <!--商品详情 开始-->
+
+{% for prod in pro_list %}
+<a name="dails"></a>
+    {% if prod.sale.id|list %}
+    <img src="{% static prod.img_url.url %}">
+    {% else %}
 <a name="dails"></a>
 <section class="product-dails clearfix">
+
     <div class="product-des">
         {% for prod in pro_list %}
         <h2>{{ prod.title }}</h2>
@@ -175,6 +118,7 @@
     <div class="product-img">
     </div>
 </section>
+
 <!--详情2 开始-->
 <section class="product-two">
     <div class="swiper-btn">
@@ -225,6 +169,12 @@
         <span></span>
     </div>
 </section>
+
+    {% endif %}
+    {% endfor %}
+
+
+
 <!--规格参数 开始-->
 <a name="parameter"></a>
 <section class="specification">

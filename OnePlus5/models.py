@@ -380,7 +380,7 @@ class Oneplus5(models.Model):
     title = models.CharField(max_length=30)
     title_desc = models.CharField(max_length=200)
     img_url = models.ImageField(upload_to='uploads/')
-    video = models.ForeignKey(Video)
+    # video = models.ForeignKey(Video)
 
 
     class Meta():

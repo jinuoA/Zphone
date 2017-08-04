@@ -5,7 +5,8 @@ from django.db import models
 
 class Navtags(models.Model):
     TagName = models.CharField(max_length=20)
-    TagImg = models.ImageField(upload_to='shop/navtags/%Y/%m')
+    TagImg = models.ImageField(upload_to='shop/navtags/%Y/%m',blank=True)
+    style = models.CharField(max_length=20,blank=True)
 
     class Meta():
         verbose_name = '导航标签'
@@ -21,7 +22,7 @@ class TagGoods(models.Model):
     goodImg = models.ImageField(upload_to='shop/%Y/%m')
     goodName = models.CharField(max_length=20)
     goodPrice = models.DecimalField(max_digits=7,decimal_places=2)
-    discount = models.DecimalField(u'折扣',max_length=1,max_digits=3,decimal_places=2)
+    discount = models.DecimalField(u'折扣',max_length=2,max_digits=3,decimal_places=2,blank=True)
     Navtags = models.ForeignKey(Navtags,verbose_name='导航标签')
 
     class Meta():
@@ -76,7 +77,6 @@ class Product_details(models.Model):
     price = models.DecimalField(max_digits=5,decimal_places=2,verbose_name="商品价格")
     img_url = models.ImageField(upload_to='shop/product/%Y/%m')
     small_img = models.ImageField(upload_to='shop/product/%Y/%m',blank=True,null=True)
-    color_img = models.ImageField(upload_to='shop/product/%Y/%m',blank=True,null=True)
     sale = models.ForeignKey(ShopSales,default=1)
 
 
@@ -87,7 +87,20 @@ class Product_details(models.Model):
 
     def __unicode__(self):
         return self.title
+# 颜色选择
+class Color(models.Model):
+    name = models.CharField(max_length=10)
+    color_img = models.ImageField(upload_to='shop/product/%Y/%m', blank=True, null=True)
+    good = models.ForeignKey(ShopSales,default=1)
 
+
+    class Meta():
+        verbose_name = '颜色选择'
+        verbose_name_plural = verbose_name
+
+
+    def __unicode__(self):
+        return self.name
 
 #商品详情
 
@@ -105,6 +118,10 @@ class Product_desc(models.Model):
 
     def __unicode__(self):
         return self.title
+
+
+
+
 
 #规格参数
 

@@ -124,6 +124,33 @@ class ProPic(models.Model):
     def __str__(self):
         return self.title.encode('utf-8')
 
+class Picture2(models.Model):
+    name = models.CharField(max_length=50, verbose_name='手机名字')
+    phone = models.CharField(max_length=500, verbose_name='手机描述')
+    img2_url = models.ImageField(upload_to='uploads/blog/Picture', verbose_name='手机图片2')
+    category = models.ForeignKey(Category, blank=True, null=True, verbose_name='分类')
+    ProPic = models.ForeignKey(ProPic, verbose_name='系列')
+
+
+    class Meta():
+        verbose_name = "产品图片2"
+        verbose_name_plural = verbose_name
+
+    def __unicode__(self):
+        return self.name
+
+class Picture_details(models.Model):
+    name = models.CharField(max_length=50, verbose_name='手机名字')
+    img2_url = models.ImageField(upload_to='uploads/blog/Picture_detail', verbose_name='手机图片2')
+    ProPic = models.ForeignKey(ProPic, verbose_name='系列')
+
+    class Meta():
+        verbose_name = "图片详情"
+        verbose_name_plural = verbose_name
+
+    def __unicode__(self):
+        return self.name
+
 
 # 新闻　
 

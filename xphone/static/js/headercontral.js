@@ -54,3 +54,16 @@ $(".less528-footer-title").click(function () {
 $(window).resize(function(){
     console.log($(window).width());
 });
+//已经登录之后hover用户
+var users = $(".j-loginin");
+console.log(users);
+users.hover(function () {
+    console.log("logout");
+    $(".logout").show();
+},function () {
+    $(".logout").hover(function () {
+        $(".logout").show();
+    },function () {
+        $(".logout").hide();
+    });
+});

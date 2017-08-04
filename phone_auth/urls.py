@@ -3,7 +3,6 @@
 #@Author:zino
 
 from django.conf.urls import include, url
-from django.contrib import admin
 from phone_auth.views import *
 
 urlpatterns = [

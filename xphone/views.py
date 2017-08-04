@@ -35,12 +35,6 @@ def base(request):
         pass
     return render(request,'base.html',locals())
 
-# def index(request):
-#     try:
-#         pass
-#     except Exception as e:
-#         pass
-#     return render(request,'index_1.html',locals())
 
 
 

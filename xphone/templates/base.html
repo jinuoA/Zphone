@@ -27,8 +27,12 @@
     <link rel="stylesheet" href="{% static 'scss/blog/blog-home&news.css' %}">
     <link href="{% static 'scss/star-phone/star-phone.css' %}" rel="stylesheet">
     <link rel="stylesheet" href="{% static 'scss/product-details/products-dails.css' %}">
+    <link rel="stylesheet" href="{% static 'scss/phone/tag_details.css' %}">
     <!--blog details-->
     <link rel="stylesheet" href="{% static 'scss/blog/article-details.css' %}">
+    <!--picture details-->
+    <link rel="stylesheet" href="{% static 'scss/blog/picture-details.css' %}">
+
 
 
 </head>
@@ -55,29 +59,20 @@
                 <span></span>
             </div>
             {% if request.user.is_authenticated %}
-            <div class="user" style="">
-                <a href="{% url 'logout' %}"><span></span></a>
-                <span class="j-loginin"></span>
+            <div class="user">
+                <span style="display: none;"></span>
+                <span style="display: block;" class="j-loginin"></span>
                 <ul class="logout">
                     <li>我的订单</li>
                     <li>super账户</li>
-                    <li>退出</li>
+                    <li><a href="{% url 'logout' %}">退出</a></li>
                 </ul>
             </div>
             {% else %}
             <div class="user">
                 <a href="{% url 'login' %}"><span></span></a>
-            <span class="j-loginin"></span>
-                <ul class="logout">
-                    <li>我的订单</li>
-                    <li>super账户</li>
-                    <li>退出</li>
-                </ul>
             </div>
             {% endif %}
-
-
-
         </div>
         <!--右边 结束-->
         <!--点击搜索按钮 开始-->
@@ -105,7 +100,21 @@
         <!--屏幕小于768 开始-->
        <div class="less768">
            <div class="shop-car"><span></span></div>
-           <div class="user"><span></span></div>
+            {% if request.user.is_authenticated %}
+                <div class="user">
+                    <span style="display: none;"></span>
+                    <span style="display: block;" class="j-loginin"></span>
+                    <ul class="logout" >
+                        <li>我的订单</li>
+                        <li>super账户</li>
+                        <li><a href="{% url 'logout' %}">退出</a></li>
+                    </ul>
+                </div>
+            {% else %}
+            <div class="user">
+                <a href="{% url 'login' %}"><span></span></a>
+            </div>
+            {% endif %}
            <div class="fold" id="header-fold"><span ></span></div>
        </div>
         <!--屏幕小于768 结束-->
@@ -114,7 +123,7 @@
 <!--头部导航栏 结束-->
 <!--小屏幕下隐藏的部分 开始-->
 <div class="less768-menu dn">
-   {% include 'include/s' %}
+   {% include 'include/small_bar.html' %}
     <div class="arrow-down" id="less768-header-arrow-down">
         <i class="superfont icon-packup"></i>
     </div>
@@ -188,17 +197,17 @@
             <li>
                 <div class="less528-footer-title"><span>super产品</span><span class="fr superfont icon-unfold color2"></span></div>
                 <div class="less528-footer-content">
-                    <p><a href="#">oneplus5</a></p>
-                    <p><a href="#">superphone 3T</a></p>
-                    <p><a href="#">superphone3</a></p>
+                    {% for pt in product_list %}
+                    <p><a href="#">{{ pt.proName }}</a></p>
+                    {% endfor %}
                 </div>
             </li>
-            <li>
+                <li>
                 <div class="less528-footer-title"><span>super产品</span><span class="fr superfont icon-unfold color2"></span></div>
                 <div class="less528-footer-content">
-                    <p><a href="#">oneplus5</a></p>
-                    <p><a href="#">superphone 3T</a></p>
-                    <p><a href="#">superphone3</a></p>
+                    {% for sv in service_list %}
+                    <p><a href="#">{{ sv.name }}</a></p>
+                    {% endfor %}
                 </div>
             </li>
         </ul>
